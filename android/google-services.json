@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "60894231688",
+    "project_id": "mappingu-a6860",
+    "storage_bucket": "mappingu-a6860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60894231688:android:1cffa5b0061faf9322733d",
+        "android_client_info": {
+          "package_name": "urss.salle.mapingu_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60894231688-vv99fi9u3r71pc8407l3i67qb6u7e03v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt9083r5waLS7JzYLk1FLClXdhFB3t24w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60894231688-vv99fi9u3r71pc8407l3i67qb6u7e03v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
